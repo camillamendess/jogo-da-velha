@@ -118,11 +118,11 @@ body {
 
 .winning-message p {
     color: white;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
 }
 
 .winning-message button {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     background-color: blueviolet;
     padding: 10px 15px;
     cursor: pointer;
